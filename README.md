@@ -33,7 +33,7 @@ curl -sL https://raw.githubusercontent.com/YOUR_USERNAME/anti-ai-writing/main/in
 
 ```bash
 mkdir -p ~/.claude/skills/anti-ai-writing
-curl -sL https://raw.githubusercontent.com/YOUR_USERNAME/anti-ai-writing/main/SKILL.md \
+curl -sL https://raw.githubusercontent.com/cbsteh/anti-ai-writing/main/SKILL.md \
      -o ~/.claude/skills/anti-ai-writing/SKILL.md
 ```
 
