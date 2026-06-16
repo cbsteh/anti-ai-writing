@@ -1,12 +1,12 @@
 #!/usr/bin/env bash
 # install.sh — anti-ai-writing skill for Claude Code
-# Usage: curl -sL https://raw.githubusercontent.com/YOUR_USERNAME/anti-ai-writing/main/install.sh | bash
+# Usage: curl -sL https://raw.githubusercontent.com/cbsteh/anti-ai-writing/main/install.sh | bash
 
 set -e
 
 SKILL_NAME="anti-ai-writing"
 SKILL_DIR="${HOME}/.claude/skills/${SKILL_NAME}"
-RAW_URL="https://raw.githubusercontent.com/YOUR_USERNAME/anti-ai-writing/main/SKILL.md"
+RAW_URL="https://raw.githubusercontent.com/cbsteh/anti-ai-writing/main/SKILL.md"
 
 echo ""
 echo "Installing Claude Code skill: ${SKILL_NAME}"
