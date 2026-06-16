@@ -26,7 +26,7 @@ Rules are based on empirical research on LLM-associated writing in academic cont
 ### One-liner (recommended)
 
 ```bash
-curl -sL https://raw.githubusercontent.com/YOUR_USERNAME/anti-ai-writing/main/install.sh | bash
+curl -sL https://raw.githubusercontent.com/cbsteh/anti-ai-writing/main/install.sh | bash
 ```
 
 ### Manual
@@ -40,7 +40,7 @@ curl -sL https://raw.githubusercontent.com/cbsteh/anti-ai-writing/main/SKILL.md 
 ### git clone
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/anti-ai-writing.git \
+git clone https://github.com/cbsteh/anti-ai-writing.git \
     ~/.claude/skills/anti-ai-writing
 ```
 
